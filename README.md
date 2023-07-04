@@ -23,3 +23,4 @@ E o plugin:
 
 * ## Próximos passos
 - [ ] Aprimorar usabilidade com hovers e interações nos ícones
+- [ ] Melhorar media queries para dispositivos menores
