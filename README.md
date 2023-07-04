@@ -9,6 +9,8 @@
 - [X] Utilização do Plugin SwiperJS para criar um carrossel de imagens
 - [X] Media queries
 
+Link do projeto: https://jessicavsampaio.github.io/alurabooks/
+
 * Mobile
 
 ![aluraBooks](https://github.com/jessicavsampaio/alurabooks/blob/main/prints%20projeto/Mobile.png)
