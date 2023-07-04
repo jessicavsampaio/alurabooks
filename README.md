@@ -1,26 +1,38 @@
 # AluraBooks
 
-1 - Projeto criado para praticar tecnologias
+1 - Projeto criado para praticar tecnologias e o conceito de mobile-first
 
 2 - Lista com as funcionalidades:
 
 - [X] Mobile-first
-- [X] Menu suspenso com input checkbox
+- [X] Menu suspenso com input (type: checkbox)
 - [X] Utilização do Plugin SwiperJS para criar um carrossel de imagens
 - [X] Media queries
-- [X] Deploy
 
+* Mobile
+
+![aluraBooks](https://github.com/jessicavsampaio/alurabooks/blob/main/prints%20projeto/Mobile.png)
+
+* Tablet
+
+![aluraBooks](https://github.com/jessicavsampaio/alurabooks/blob/main/prints%20projeto/Tablet.png)
+
+* PC
+
+![aluraBooks](https://github.com/jessicavsampaio/alurabooks/blob/main/prints%20projeto/PC.png)
 
 ## 🛠️ Tecnologias & Libs
-
-Mencione as ferramentas que você usou para criar seu projeto
 
 * CSS
 * HTML
 
 E o plugin:
-* [SwipperJS](https://swiperjs.com/))
+* [SwipperJS](https://swiperjs.com/)
 
-* ## Próximos passos
+## Próximos passos
 - [ ] Aprimorar usabilidade com hovers e interações nos ícones
 - [ ] Melhorar media queries para dispositivos menores
+
+##
+
+Meu LinkedIn: [@jessicavsampaio](https://www.linkedin.com/in/jessicavsampaio/)
