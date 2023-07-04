@@ -20,3 +20,6 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 E o plugin:
 * [SwipperJS](https://swiperjs.com/))
+
+* ## Próximos passos
+- [ ] Aprimorar usabilidade com hovers e interações nos ícones
